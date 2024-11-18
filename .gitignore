@@ -1,0 +1,7 @@
+Commande ECHO activ‚e.
+/config.php
+/cache/
+/sessions/
+/temp/
+vendor/
+node_modules/
