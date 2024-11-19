@@ -32,6 +32,13 @@ function question_is_only_child_of_top_category_in_context() {
 /**
  * @deprecated since Moodle 4.0 MDL-71585
  */
+
+
+
+
+
+
+
 function question_is_top_category() {
     throw new coding_exception(__FUNCTION__ . '() has been removed.');
 }
