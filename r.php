@@ -31,6 +31,9 @@ require_once('config.php');
 // Load the rest of the setup.
 require_once("{$CFG->libdir}/setuplib.php");        // Functions that MUST be loaded first.
 
+
+
+
 // Load up standard libraries.
 require_once("{$CFG->libdir}/filterlib.php");       // Functions for filtering test as it is output.
 require_once("{$CFG->libdir}/ajax/ajaxlib.php");    // Functions for managing our use of JavaScript and YUI.
